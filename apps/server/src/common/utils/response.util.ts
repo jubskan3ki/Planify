@@ -1,0 +1,1 @@
+// Utilitaire pour les réponses

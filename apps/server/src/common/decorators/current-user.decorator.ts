@@ -1,0 +1,1 @@
+// Décorateur personnalisé

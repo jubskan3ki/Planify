@@ -1,0 +1,1 @@
+// Intercepteur pour les réponses

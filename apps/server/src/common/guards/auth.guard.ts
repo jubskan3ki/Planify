@@ -1,0 +1,1 @@
+// Guard pour l'authentification
